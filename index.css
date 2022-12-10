@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+.heading{
+    color: white;
+}
+.p1{
+    color: white;
+    padding-left: 20px;
+}
+.p2{
+    color: white;
+    padding-left: 90px;
+}
+.P1 img{
+    height: 200px;
+}
+.P2 img{
+    height: 200px;
+    padding-left: 4cm;
+}
+.P1{
+    width: 50%;
+}
+.P2{
+    width: 50%;
+}
+.container{
+    display: inline-flex;
+    padding-left: 18cm;
+}
+p{
+    padding-left: 3cm;
+    font-size: 1.5cm;
+    text-align: center;
+}
